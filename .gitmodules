@@ -1,0 +1,6 @@
+[submodule "lib/http-parser"]
+	path = lib/http-parser
+	url = https://github.com/nodejs/http-parser.git
+[submodule "lib/wslay"]
+	path = lib/wslay
+	url = https://github.com/tatsuhiro-t/wslay.git
